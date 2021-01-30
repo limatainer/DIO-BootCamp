@@ -5,4 +5,5 @@
   <li><b>INSTAGRAM PAGE</b></li>
   <li><b>Netflix PAGE</b></li>
   <li><b>Jogo</b></li>
+  <li><b> consultar a previsão do tempo via API </b></i>
 </ol>
