@@ -1,0 +1,1 @@
+mongodb+srv://api:NxUuyC1USzalZUM6@cluster0.ti0sp.mongodb.net/<dbname>?retryWrites=true&w=majority
